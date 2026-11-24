@@ -1,6 +1,6 @@
 export const birthdayData = {
   // The name of the birthday person (can be edited here)
-  name: "Anika",
+  name: "Sharmin",
 
   // Heartfelt Bengali birthday message
   message: "তোমার জীবনের প্রতিটি দিন হোক আনন্দ, ভালোবাসা আর সুন্দর মুহূর্তে ভরা। তোমার সব স্বপ্ন পূরণ হোক। আজকের দিনটা হোক তোমার জীবনের সবচেয়ে সুন্দর দিনগুলোর একটি। ❤️",
